@@ -67,28 +67,28 @@ https://www.icloud.com/shortcuts/bef2cb9974a544e19faf56f76ba38f3a
 5. Luna ExecuteCore
 https://www.icloud.com/shortcuts/4e20ce652ba74196a980bf0f2d1b5a71
 
-7. Luna GetControl
+6. Luna GetControl
 https://www.icloud.com/shortcuts/28b7b124fe9440ca8a42b2dbf765ca3c
 
-8. Luna SaveControl
+7. Luna SaveControl
 https://www.icloud.com/shortcuts/3ba2fd837b3f469f868a48879f3511f2
 
-9. Luna Fetch
+8. Luna Fetch
 https://www.icloud.com/shortcuts/8b5e13d10e624467958e8b0d690c9f44
 
-10. Luna WeatherInfo
+9. Luna WeatherInfo
 https://www.icloud.com/shortcuts/c4d1596f24524040abf409d5aee984bd
 
-11. Luna ODIP
+10. Luna ODIP
 https://www.icloud.com/shortcuts/70efe684a0f34aef944718c5f602c116
 
-12. Luna에게 보내기
+11. Luna에게 보내기
 https://www.icloud.com/shortcuts/96fbdee10ede4d25a54a6b1b20d1a3a4
 
-13. 루나 데이터셋 추가
+12. 루나 데이터셋 추가
 https://www.icloud.com/shortcuts/3d5e858940794ac4b8441119cc72fb3c
 
-14. Luna setLunaSettings
+13. Luna setLunaSettings
 https://www.icloud.com/shortcuts/7bc512f1e811402086eb902df063b025
 
 --루나 호출 및 편의기능--

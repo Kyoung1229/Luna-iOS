@@ -41,6 +41,8 @@ ChatGPT(o1 및 o1 mini)을 통해 작업 수행
 - - 사용자의 직접적인 요청이 필요한 경우가 많음
 
 주의사항
+- Luna의 공식 지원 언어는 한국어이며, 영어로의 사용이
+가능하기는 하나 예상치 못한 행동이 실행될 수 있습니다. (Luna only supports Korean. Using English may cause unexpected behaviors.)
 - 핵심 기능은 Openrouter를 통해 구동이 가능하나, 초기 실행 모델로 gpt-4o를 사용하고, 기억 저장의 경우 gpt-4o-mini 모델을 사용하므로 ChatGPT의 API 키는 초기 설정 시 필요합니다.
 - Openrouter를 통한 사용의 경우 Gemini를 제외한 다른 모델을 사용할 경우, 함수 호출 기능이 있는 LLM 모델이 아니라면 에이전트 기능들이 작동하지 않습니다.
 - 리마인더 추가 및 집중 모드 설정: 해당 기능을 수행하는 경우, 리마인더의 경우 리마인더 폴더가 지정되지 않았을 가능성이 높습니다. 이를 해결하려면 Luna ExecuteCore 단축어에서, 조건문 'Funcname이 addReminder인 경우'를 찾아, 리마인더를 추가하는 동작에서 원하시는 리마인더 폴더를 선택해 주세요. 집중 모드 설정의 경우 기본 집중 모드를 제외하고는 사용자화가 불가합니다.

@@ -36,7 +36,61 @@ ChatGPT(o1 및 o1 mini)을 통해 작업 수행
 
 주의사항
 - 핵심 기능은 Openrouter를 통해 구동이 가능하나, 초기 실행 모델로 gpt-4o를 사용하고, 기억 저장의 경우 gpt-4o-mini 모델을 사용하므로 ChatGPT의 API 키는 초기 설정 시 필요합니다.
+- Openrouter를 통한 사용의 경우 Gemini를 제외한 다른 모델을 사용할 경우, 함수 호출 기능이 있는 LLM 모델이 아니라면 에이전트 기능들이 작동하지 않습니다.
 - 리마인더 추가 및 집중 모드 설정: 해당 기능을 수행하는 경우, 리마인더의 경우 리마인더 폴더가 지정되지 않았을 가능성이 높습니다. 이를 해결하려면 Luna ExecuteCore 단축어에서, 조건문 'Funcname이 addReminder인 경우'를 찾아, 리마인더를 추가하는 동작에서 원하시는 리마인더 폴더를 선택해 주세요. 집중 모드 설정의 경우 기본 집중 모드를 제외하고는 사용자화가 불가합니다.
 - 모델을 gpt-4o로 사용할 시, 사용 요금이 높게 나올 수 있습니다. Luna의 사용 요금을 낮추기 위해서는 Openrouter를 통한 Gemini 모델을 사용하시거나, gpt-4o-mini 모델틀 사용해 주세요. (모델 변경은 Luna가 수행해 줍니다.)
 
 단축어 다운로드용 iCloud 링크
+1. Luna 초기 설정
+https://www.icloud.com/shortcuts/1b203c6210ef4025bb9424f77600a12d
+
+3. Luna Core - ChatGPT
+https://www.icloud.com/shortcuts/ec1960913a6742b28e3577df290cf7ca
+
+4. Luna Core - Gemini
+https://www.icloud.com/shortcuts/972d271befe0445fbd20e4cb7a9b340f
+
+5. Luna ExecuteCore
+https://www.icloud.com/shortcuts/105eeca7667543679ccb3e7d2cc244d9
+
+6. Luna GetControl
+https://www.icloud.com/shortcuts/28b7b124fe9440ca8a42b2dbf765ca3c
+
+7. Luna SaveControl
+https://www.icloud.com/shortcuts/3ba2fd837b3f469f868a48879f3511f2
+
+8. Luna Fetch
+https://www.icloud.com/shortcuts/8b5e13d10e624467958e8b0d690c9f44
+
+9. Luna WeatherInfo
+https://www.icloud.com/shortcuts/c4d1596f24524040abf409d5aee984bd
+
+10. Luna ODIP
+https://www.icloud.com/shortcuts/70efe684a0f34aef944718c5f602c116
+
+11. Luna에게 보내기
+https://www.icloud.com/shortcuts/96fbdee10ede4d25a54a6b1b20d1a3a4
+
+12. 루나 데이터셋 추가
+https://www.icloud.com/shortcuts/3d5e858940794ac4b8441119cc72fb3c
+
+13. Luna setLunaSettings
+https://www.icloud.com/shortcuts/7bc512f1e811402086eb902df063b025
+
+--루나 호출 및 편의기능--
+1. 루나 부르기
+https://www.icloud.com/shortcuts/0ec481c3231441df8b19dcdc4949a1ec
+
+2. 루나&Luna(Siri)
+https://www.icloud.com/shortcuts/4a61ca003d6b4960856a244138712309
+https://www.icloud.com/shortcuts/02cf2a36fecf40739d0215a4f1e6fa93
+
+3. Edit functions(함수 호출 수정용)
+https://www.icloud.com/shortcuts/7c9b98194a1e4aac952da3feda02f7c5
+
+4. Luna Shortcut
+https://www.icloud.com/shortcuts/e3494ef6d8b649b1b730d10de9a13f2a
+
+5. LS Edit Add
+https://www.icloud.com/shortcuts/7651065634c84cd5b06d65b4e06581c8
+

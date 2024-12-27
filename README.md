@@ -65,5 +65,5 @@ Luna의 기능들
 
 개발자 연락처
 
-이메일 kyoung01122189@gmail.com
-디스코드 kyoung_1229
+- 이메일 kyoung01122189@gmail.com
+- 디스코드 kyoung_1229

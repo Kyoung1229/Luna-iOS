@@ -11,7 +11,7 @@ Luna 디스코드
 
 설치
 0. OpenAI API 키, Openrouter API 키를 준비해 주세요.
-1. 'Luna 초기 설정'(https://www.icloud.com/shortcuts/4684a986cb4b4dd590f3db6493606c83) 단축어를 다운로드 합니다.
+1. 'Luna 초기 설정'(https://www.icloud.com/shortcuts/146ab10d7b1a41068a69b4c366cb0137) 단축어를 다운로드 합니다.
 2. 다운로드한 단축어를 총 4번 실행, 1~4번의 메뉴를 각각 한 번씩 눌러 설치를 완료해 주세요.
 
 

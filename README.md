@@ -12,7 +12,7 @@ Luna 디스코드
 설치
 
 1. OpenAI API 키 혹은 Google AI Studio API 키를 준비해 주세요.
-2. 'Luna 설정'(https://www.icloud.com/shortcuts/3e1c3ebbce1a4eef937c2460d042b168) 단축어를 다운로드 합니다.
+2. 'Luna 설정'(https://www.icloud.com/shortcuts/0a4b3c04efa247b294b25c3087e25167) 단축어를 다운로드 합니다.
 3. 다운로드한 단축어를 총 3번 실행, 1~3번 메뉴를 각각 한 번씩 눌러 설치를 완료해 주세요. (OpenAI / Google AI Studio 중 하나의 API 키만 저장하여도 정상작동 합니다.
 
 
